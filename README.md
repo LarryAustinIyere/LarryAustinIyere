@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LarryAustinIyere
 - 👀 I’m interested in connecting with people 
-- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on you 
 - 📫 How to reach me ..
 https://larryaustiniyere.github.io/my-portfolio/
